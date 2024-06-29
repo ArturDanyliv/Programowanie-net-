@@ -1,0 +1,14 @@
+/Users/arturdanyliv/Desktop/Net/ChatServer/bin/Debug/net8.0/ChatServer
+/Users/arturdanyliv/Desktop/Net/ChatServer/bin/Debug/net8.0/ChatServer.deps.json
+/Users/arturdanyliv/Desktop/Net/ChatServer/bin/Debug/net8.0/ChatServer.runtimeconfig.json
+/Users/arturdanyliv/Desktop/Net/ChatServer/bin/Debug/net8.0/ChatServer.dll
+/Users/arturdanyliv/Desktop/Net/ChatServer/bin/Debug/net8.0/ChatServer.pdb
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.AssemblyInfoInputs.cache
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.AssemblyInfo.cs
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.csproj.CoreCompileInputs.cache
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.dll
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/refint/ChatServer.dll
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.pdb
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ChatServer.genruntimeconfig.cache
+/Users/arturdanyliv/Desktop/Net/ChatServer/obj/Debug/net8.0/ref/ChatServer.dll

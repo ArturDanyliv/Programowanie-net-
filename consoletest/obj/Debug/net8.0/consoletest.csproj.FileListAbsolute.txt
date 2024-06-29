@@ -1,0 +1,14 @@
+/Users/arturdanyliv/Desktop/Net/consoletest/bin/Debug/net8.0/consoletest
+/Users/arturdanyliv/Desktop/Net/consoletest/bin/Debug/net8.0/consoletest.deps.json
+/Users/arturdanyliv/Desktop/Net/consoletest/bin/Debug/net8.0/consoletest.runtimeconfig.json
+/Users/arturdanyliv/Desktop/Net/consoletest/bin/Debug/net8.0/consoletest.dll
+/Users/arturdanyliv/Desktop/Net/consoletest/bin/Debug/net8.0/consoletest.pdb
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfoInputs.cache
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfo.cs
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.dll
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/refint/consoletest.dll
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.pdb
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
+/Users/arturdanyliv/Desktop/Net/consoletest/obj/Debug/net8.0/ref/consoletest.dll
